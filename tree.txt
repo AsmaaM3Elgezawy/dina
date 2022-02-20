@@ -1,0 +1,8 @@
+accurcy of decision tree best tan naivebayes 
+
+
+CTGAN is a collection of Deep Learning based Synthetic Data Generators for single table data, which are able to learn from real data and generate synthetic clones with high fidelity.
+
+https://github.com/sdv-dev/CTGAN
+https://www.maskaravivek.com/post/ctgan-tabular-synthetic-data-generation/
+
